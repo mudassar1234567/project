@@ -1,0 +1,10 @@
+C:\Users\abc\source\repos\Daud_factory\Daud_factory\bin\Debug\Daud_factory.exe.config
+C:\Users\abc\source\repos\Daud_factory\Daud_factory\bin\Debug\Daud_factory.exe
+C:\Users\abc\source\repos\Daud_factory\Daud_factory\bin\Debug\Daud_factory.pdb
+C:\Users\abc\source\repos\Daud_factory\Daud_factory\obj\Debug\Daud_factory.csprojAssemblyReference.cache
+C:\Users\abc\source\repos\Daud_factory\Daud_factory\obj\Debug\Daud_factory.Properties.Resources.resources
+C:\Users\abc\source\repos\Daud_factory\Daud_factory\obj\Debug\Daud_factory.csproj.GenerateResource.cache
+C:\Users\abc\source\repos\Daud_factory\Daud_factory\obj\Debug\Daud_factory.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\Daud_factory\Daud_factory\obj\Debug\Daud_factory.exe
+C:\Users\abc\source\repos\Daud_factory\Daud_factory\obj\Debug\Daud_factory.pdb
+C:\Users\abc\source\repos\Daud_factory\Daud_factory\obj\Debug\Daud_factory.Form1.resources
